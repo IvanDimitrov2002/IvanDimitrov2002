@@ -20,6 +20,10 @@ Technologies I know and use:
 
 ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/html.svg "HTML") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/css.svg "CSS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/js.svg "JAVASCRIPT") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/ts.svg "TYPESCRIPT") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/react.svg "REACT") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/nextjs.svg "NEXTJS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/sass.svg "SASS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/css-modules.svg "CSS-MODULES")  ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/node.svg "NODE") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/nestjs.svg "NESTJS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/flutter.svg "FLUTTER") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/mysql.svg "MYSQL") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/firebase.svg "FIREBASE") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/jest.svg "JEST") 
 
+Technologies I know but rarely use:
+
+![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/c.svg "C/C++") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/python.svg "PYTHON") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/java.svg "JAVA")
+
 ## Get in touch
 
 * Twitter: [@IODimitrov](https://twitter.com/IODimitrov)
