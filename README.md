@@ -1,6 +1,6 @@
-# Ivan Dimitrov---@IvanDimitrov2002
+# Ivan Dimitrov—@IvanDimitrov2002
 
-Hi! I'm Ivan - a front-end javascript developer, currently a student, freelancer. I'm from Bulgaria, living in Sofia :). I love technology and all its aspects. Yet with every love comes and hate while bugs are prese...
+Hi! I'm Ivan - mainly front-end javascript developer, currently a student, freelancer. I'm from Bulgaria, living in Sofia :). I love technology and all its aspects. Yet with every love comes and hate while bugs are prese...
 
 
 >**Error: src/README.md**
