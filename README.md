@@ -1,16 +1,9 @@
 # Ivan Dimitrov—@IvanDimitrov2002
 
-Hi! I'm Ivan - mainly front-end javascript developer, currently a student, freelancer. I'm from Bulgaria, living in Sofia :). I love technology and all its aspects. Yet with every love comes and hate while bugs are prese...
-
+Hi! I'm Ivan - mainly front-end javascript developer, currently a student, freelancer. I'm from Bulgaria, living in Sofia :). I love technology and all its aspects.
 
 >**Error: src/README.md**
-Module not found: You attempted to import '/interestingDescription.js' which is not possible dummy 🤯
-
-I always try my best , I don't give up easily and I will try to fix something, no matter how long it will take me (I guess because of my stubbornness haha).
-
-
-
-Okay let's start with the useful information below 😊
+Module not found: You attempted to import '/interestingDescription.js' 🤯
 
 ## Technologies 
 
