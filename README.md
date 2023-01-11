@@ -1,13 +1,13 @@
 # Ivan Dimitrov—@IvanDimitrov2002
 
-Hi! I'm Ivan - mainly front-end javascript developer, currently a student, freelancer. I'm from Bulgaria, living in Sofia :). I love technology and all its aspects.
+Hi! I'm Ivan - mainly front-end javascript developer. I'm from Bulgaria, living in Sofia :). I love technology and all its aspects.
 
 >**Error: src/README.md**
 Module not found: You attempted to import '/interestingDescription.js' 🤯
 
 ## Technologies 
 
-My favorite language is JavaScript so I use it daily. Also I like CSS/Sass a lot and for me the tiny details are important.
+My favorite language is JavaScript so I use it on daily basis.
 
 ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/html.svg "HTML") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/css.svg "CSS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/js.svg "JAVASCRIPT") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/ts.svg "TYPESCRIPT") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/jquery.svg "JQUERY") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/react.svg "REACT") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/nextjs.svg "NEXTJS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/sass.svg "SASS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/css-modules.svg "CSS-MODULES")  ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/node.svg "NODE") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/nestjs.svg "NESTJS") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/flutter.svg "FLUTTER") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/mysql.svg "MYSQL") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/firebase.svg "FIREBASE") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/graphql.svg "GRAPHQL") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/jest.svg "JEST") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/c.svg "C/C++") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/python.svg "PYTHON") ![alt text](https://cdn.jsdelivr.net/gh/IvanDimitrov2002/IvanDimitrov2002@master/java.svg "JAVA")
 
